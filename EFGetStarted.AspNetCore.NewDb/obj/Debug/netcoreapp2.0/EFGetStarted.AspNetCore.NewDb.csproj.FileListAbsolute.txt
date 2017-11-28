@@ -6,3 +6,6 @@ C:\Development\EntityFramework_on_ASP\EFGetStarted.AspNetCore.NewDb\obj\Debug\ne
 C:\Development\EntityFramework_on_ASP\EFGetStarted.AspNetCore.NewDb\obj\Debug\netcoreapp2.0\EFGetStarted.AspNetCore.NewDb.csproj.CoreCompileInputs.cache
 C:\Development\EntityFramework_on_ASP\EFGetStarted.AspNetCore.NewDb\obj\Debug\netcoreapp2.0\EFGetStarted.AspNetCore.NewDb.AssemblyInfoInputs.cache
 C:\Development\EntityFramework_on_ASP\EFGetStarted.AspNetCore.NewDb\obj\Debug\netcoreapp2.0\EFGetStarted.AspNetCore.NewDb.AssemblyInfo.cs
+C:\Development\EntityFramework_on_ASP\EFGetStarted.AspNetCore.NewDb\bin\Debug\netcoreapp2.0\EFGetStarted.AspNetCore.NewDb.pdb
+C:\Development\EntityFramework_on_ASP\EFGetStarted.AspNetCore.NewDb\obj\Debug\netcoreapp2.0\EFGetStarted.AspNetCore.NewDb.dll
+C:\Development\EntityFramework_on_ASP\EFGetStarted.AspNetCore.NewDb\obj\Debug\netcoreapp2.0\EFGetStarted.AspNetCore.NewDb.pdb
