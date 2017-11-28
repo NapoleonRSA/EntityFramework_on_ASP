@@ -1,0 +1,8 @@
+C:\Development\EntityFramework_on_ASP\EFGetStarted.AspNetCore.NewDb\bin\Debug\netcoreapp2.0\EFGetStarted.AspNetCore.NewDb.deps.json
+C:\Development\EntityFramework_on_ASP\EFGetStarted.AspNetCore.NewDb\bin\Debug\netcoreapp2.0\EFGetStarted.AspNetCore.NewDb.runtimeconfig.json
+C:\Development\EntityFramework_on_ASP\EFGetStarted.AspNetCore.NewDb\bin\Debug\netcoreapp2.0\EFGetStarted.AspNetCore.NewDb.runtimeconfig.dev.json
+C:\Development\EntityFramework_on_ASP\EFGetStarted.AspNetCore.NewDb\bin\Debug\netcoreapp2.0\EFGetStarted.AspNetCore.NewDb.dll
+C:\Development\EntityFramework_on_ASP\EFGetStarted.AspNetCore.NewDb\obj\Debug\netcoreapp2.0\EFGetStarted.AspNetCore.NewDb.csprojResolveAssemblyReference.cache
+C:\Development\EntityFramework_on_ASP\EFGetStarted.AspNetCore.NewDb\obj\Debug\netcoreapp2.0\EFGetStarted.AspNetCore.NewDb.csproj.CoreCompileInputs.cache
+C:\Development\EntityFramework_on_ASP\EFGetStarted.AspNetCore.NewDb\obj\Debug\netcoreapp2.0\EFGetStarted.AspNetCore.NewDb.AssemblyInfoInputs.cache
+C:\Development\EntityFramework_on_ASP\EFGetStarted.AspNetCore.NewDb\obj\Debug\netcoreapp2.0\EFGetStarted.AspNetCore.NewDb.AssemblyInfo.cs
